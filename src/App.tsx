@@ -15,7 +15,7 @@ function App() {
         <Card>
           <h1>说明：</h1>
           <p> 交换友链请在底部 <strong><a style={{color:'#64ffda'}} href="#discuss">留言板（点击跳转）</a></strong> 提交 <strong style={{color:'#64ffda'}}>标题</strong>、<strong style={{color:'#64ffda'}}>图标</strong> 和 <strong style={{color:'#64ffda'}}>链接</strong>，例如:</p>
-          <pre style={{background:"rgb(23,23,25)"}}>
+          <pre style={{background:"rgb(23,23,25)", overflow:'auto'}}>
             <code>
               &#123;<br/>
               <span style={{color:"#2196f3"}}>    title</span>: <span style={{color:"#64ffda"}}>"Plan C 的主页"</span>,<br/>
