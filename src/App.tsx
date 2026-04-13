@@ -38,11 +38,12 @@ function App() {
         <Card id="discuss">
             <Giscus
               id="comments"
-              repo="hubenchang0515/friends"
-              repoId="R_kgDON2rdLA"
+              repo="hubenchang0515/comments"
+              repoId="R_kgDOQCfF2Q"
               category="Announcements"
-              categoryId="DIC_kwDON2rdLM4CmzPN"
+              categoryId="DIC_kwDOQCfF2c4CwpFg"
               mapping="url"
+              term="Welcome to @giscus/react component!"
               reactionsEnabled="1"
               emitMetadata="0"
               inputPosition="top"

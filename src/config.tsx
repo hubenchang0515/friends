@@ -7,4 +7,15 @@ export const LINKS:FriendCardProps[]  = [
         url: "https://blog.qvq.moe/",
     },
     
+    {
+        title: "红萌",
+        icon: "https://github.com/hmoexyz.png",
+        url: "https://hmoexyz.github.io/",
+    },
+
+    {
+        title: "Alice",
+        icon: "https://avatars.githubusercontent.com/u/240889020?v=4",
+        url: "https://alice-mira.github.io/",
+    },
 ]
